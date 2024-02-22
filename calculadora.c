@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 int main() {
-int suma,a,b;
 int variable1, variable2, resultado;
 
   printf("\tMULTIPLICACION\n");
