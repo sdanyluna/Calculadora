@@ -36,7 +36,7 @@ int main() {
         scanf("%i", variable2);
         resultado= variable1*variable2;
         printf("El resultado a Multiplicar es: %i", resultado);
-        break;
+        break; //Miranda Vargas Ricardo
       case 4:
       case 5:
         return 0;
