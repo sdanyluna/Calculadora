@@ -3,8 +3,6 @@
 
 int main() {
 int suma,a,b;
-int variable1, variable2, resultado;
-  printf("\t\tPrograma de la Calculadora\n");
   printf("\tSUMA\n");
   printf("Inserta el primer valor a sumar: ");
   scanf("%i", a);
@@ -13,7 +11,6 @@ int variable1, variable2, resultado;
   suma=a+b;
   printf("La suma de los dos numeros es: %i", suma);
   printf("\n\n");
-
   
   return 0;
 }
