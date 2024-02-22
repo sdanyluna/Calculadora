@@ -15,32 +15,10 @@ int main() {
   switch(opc)
   {
     case 1: 
-        printf("\tSUMA\n");
-        printf("Inserta el primer valor a sumar: ");
-        scanf("%i", a);
-        printf("Inserta el segundo valor a sumar: ");
-        scanf("%i", b);
-        suma=a+b;
-        printf("La suma de los dos numeros es: %i", suma);
-        printf("\n\n");
         break;
     case 2:
-        printf ("\tRESTA\n");
-        printf ("Ingresa el minuendo: ");
-        scanf ("%i", min);
-        printf ("Ingresa el sustraendo: ");
-        scanf ("%i", sus);
-        res= min-sus;
-        printf("El resultado de la resta es: %i", res);
         break;
     case 3:
-        printf("\tMULTIPLICACION\n");
-        printf("Ingrese el primer valor a multiplicar");
-        scanf("%i", variable1);
-        printf("Ingrese el segundo valor a multiplicar");
-        scanf("%i", variable2);
-        resultado= variable1*variable2;
-        printf("El resultado a Multiplicar es: %i", resultado);
         break;
     case 4:
         break;
