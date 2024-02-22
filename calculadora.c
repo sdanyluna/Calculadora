@@ -21,6 +21,7 @@ int variable1, variable2, resultado;
   scanf("%i", variable2);
   resultado= variable1*variable2;
   printf("El resultado a Multiplicar es: %i", resultado);
+  hola
   return 0;
 }
 
