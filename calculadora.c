@@ -23,4 +23,4 @@ int variable1, variable2, resultado;
   printf("El resultado a Multiplicar es: %i", resultado);
   return 0;
 }
-
+//Pongan sus nombres a lo que hicieron
